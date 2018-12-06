@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLoginUI</string>
+    <string name="title_activity_registered">registeredActivity</string>
+    <string name="qq">QQ</string>
+</resources>
